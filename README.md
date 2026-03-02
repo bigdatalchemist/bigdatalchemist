@@ -8,10 +8,15 @@ Software Engineer specializing in backend systems and applied machine learning. 
 ## What I Do
 
 Build backend systems using Python
+
 Design and implement RESTful APIs
+
 Develop NLP pipelines and semantic similarity systems
+
 Train and integrate machine learning models with PyTorch
+
 Design relational database schemas and optimize queries
+
 Deploy and maintain scalable web applications
 
 
